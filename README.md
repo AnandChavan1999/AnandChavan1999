@@ -12,8 +12,8 @@
 💡 **Data Scientist | Machine Learning Enthusiast | Problem Solver**  
 📍 Based in **India**  
 📫 Reach me at **[Anandchavan0035@gmail.com](mailto:Anandchavan0035@gmail.com)**  
-🎓 **M.Tech in Computer Science** — Bharath University, Chennai  **  
-🎓 **B.E in Computer Science** — AISSMIS IOIT , Pune **  
+🎓 **M.Tech in Computer Science** — Bharath University, Chennai  
+🎓 **B.E in Computer Science** — AISSMIS IOIT , Pune 
 💼 **Ex–Data Analyst  Intern @ Netzwerk AI, Bangalore (Dec 2023 – Aug 2024)**  
 
 > Passionate about crafting data-driven solutions, building intelligent systems, and optimizing decision-making using AI and ML techniques.  
