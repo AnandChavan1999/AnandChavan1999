@@ -1,7 +1,8 @@
 <!-- 💫 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anand+Chavan!;Data+Scientist+%7C+ML+Engineer+%7C+AI+Explorer;Transforming+Data+into+Insights+and+Impact+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anand+Chavan!;Data+Scientist+%7C+ML+Engineer+%7C+AI+Explorer;Transforming+Data+into+Insights+and+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 <!-- Banner -->
 <p align="center">
