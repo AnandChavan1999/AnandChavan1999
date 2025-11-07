@@ -38,31 +38,6 @@
 
 ---
 
-### 💼 Professional Experience  
-
-#### **Data Scientist Intern — Netzwerk AI, Bangalore**  
-*Dec 2023 – Aug 2024*  
-
-- Conducted **sentiment analysis** on financial blogs and media data to detect stock market trends across regions.  
-- Implemented **ML models** (Logistic Regression, KeyBERT, WordCloud) that boosted advertising performance by **40%**.  
-- Used **BeautifulSoup** for large-scale web scraping, enriching datasets for financial predictions.  
-- Applied **feature engineering, model tuning, and validation** to enhance predictive accuracy and efficiency.  
-- Collaborated cross-functionally with marketing and sales teams, improving **conversion rates by 25%** through data insights.  
-
----
-
-### 🚀 Projects  
-
-#### 🌾 **Crop Selection and Prediction**  
-- Built predictive models using **Random Forest** and **Decision Tree** with **90% accuracy**.  
-- Designed a recommendation system to optimize crop productivity across diverse regions.  
-
-#### 👟 **Footwear Product Analytics**  
-- Analyzed a **3,000-product dataset** to forecast high-demand products.  
-- Increased sales by **30%** using Python, Pandas, and Scikit-learn for trend analysis and visualization.  
-
----
-
 ### 🧾 Certifications  
 
 - 🎓 **Master’s in Data Analytics with Generative AI** – *TopMentor*  
