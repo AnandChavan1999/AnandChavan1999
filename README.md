@@ -5,11 +5,6 @@
 
 
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Anand-0035/Anand-0035/blob/main/A_digital_graphic_banner_showcases_Anand_Chavan's_.png" alt="banner" width="90%"/>
-</p>
-
 ---
 
 ### 👨‍💻 About Me  
