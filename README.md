@@ -13,7 +13,7 @@
 📍 Based in **India**  
 📫 Reach me at **[Anandchavan0035@gmail.com](mailto:Anandchavan0035@gmail.com)**  
 🎓 **M.Tech in Computer Science** — Bharath University, Chennai  
-🎓 **B.E in Computer Science** — AISSMIS IOIT , Pune 
+🎓 **B.E in Computer Science** — AISSMIS IOIT , Pune  **
 💼 **Ex–Data Analyst  Intern @ Netzwerk AI, Bangalore (Dec 2023 – Aug 2024)**  
 
 > Passionate about crafting data-driven solutions, building intelligent systems, and optimizing decision-making using AI and ML techniques.  
@@ -46,12 +46,7 @@
 
 ---
 
-### 📊 GitHub Insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anand-0035&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anand-0035&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
