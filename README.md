@@ -19,7 +19,6 @@
 - 🧠 *M.Tech in Computer Science* — **Bharath University, Chennai**  
 - 💻 *B.E in Computer Science* — **AISSMS IOIT, Pune**  
 
----
 
 ### 💼 Experience  
 - *Ex–Data Analyst Intern* @ **Netzwerk AI, Bangalore** *(Dec 2023 – Aug 2024)*  
