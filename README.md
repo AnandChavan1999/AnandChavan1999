@@ -7,24 +7,40 @@
 
 ---
 
-## 🚀 About Me  
+## 💡 About Me  
 
-💡 **Data Scientist | Machine Learning Enthusiast | Problem Solver**  
+💡 **Data Scientist | Data Analyst | Machine Learning Enthusiast | Problem Solver**  
+
 📍 **Based in:** India  
-🎓 **Education:**  
-- 🧠 *M.Tech in Computer Science* — **Bharath University, Chennai**  
-- 💻 *B.E in Computer Science* — **AISSMIS IOIT, Pune**  
 
-💼 **Experience:**  
+---
+
+### 🎓 Education  
+- 🧠 *M.Tech in Computer Science* — **Bharath University, Chennai**  
+- 💻 *B.E in Computer Science* — **AISSMS IOIT, Pune**  
+
+---
+
+### 💼 Experience  
 - *Ex–Data Analyst Intern* @ **Netzwerk AI, Bangalore** *(Dec 2023 – Aug 2024)*  
 
-🤝 **Let’s Collaborate:**  
-I’m always open to working on exciting **Machine Learning** and **Python projects** — let’s build something impactful together!  
+  Contributed to data-driven decision-making by applying **machine learning models**, **data visualization**, and **web scraping** techniques to improve marketing and customer engagement outcomes.  
 
-⚡ **Fun Fact:**  
+---
+
+### 🤝 Let’s Collaborate  
+I’m always open to collaborating on **Machine Learning**, **Data Analytics**, and **Python** projects.  
+Let’s build something impactful together! 🚀  
+
+---
+
+### ⚡ Fun Fact  
 “Debugging life with a sprinkle of humor and a dash of code magic! ✨😄”  
-📫 **Reach me at:** [Anandchavan0035@gmail.com](mailto:Anandchavan0035@gmail.com)
-  
+
+---
+
+📫 **Reach me at:** [Anandchavan0035@gmail.com](mailto:Anandchavan0035@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/ananndchavan](https://www.linkedin.com/in/ananndchavan)
 
 ---
 
