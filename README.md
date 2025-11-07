@@ -19,7 +19,7 @@
 - 🧠 *M.Tech in Computer Science* — **Bharath University, Chennai**  
 - 💻 *B.E in Computer Science* — **AISSMS IOIT, Pune**  
 
-
+--- 
 ### 💼 Experience  
 - *Ex–Data Analyst Intern* @ **Netzwerk AI, Bangalore** *(Dec 2023 – Aug 2024)*  
 
@@ -28,13 +28,13 @@
 ---
 
 ### 🤝 Let’s Collaborate  
-I’m always open to collaborating on **Machine Learning**, **Data Analytics**, and **Python** projects.  
+🤝 I’m always open to collaborating on **Machine Learning**, **Data Analytics**, and **Python** projects.  
 Let’s build something impactful together! 🚀  
 
 ---
 
 ### ⚡ Fun Fact  
-“Debugging life with a sprinkle of humor and a dash of code magic! ✨😄”  
+⚡“Debugging life with a sprinkle of humor and a dash of code magic! ✨😄”  
 
 ---
 
